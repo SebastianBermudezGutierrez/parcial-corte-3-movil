@@ -6,23 +6,23 @@
         <p>Tu compañero de entrenamiento inteligente</p>
 
         <ion-button expand="block" router-link="/login" color="dark">
-          Identificador unico
+          Id
         </ion-button>
 
         <ion-button expand="block" router-link="/login" color="dark">
-          Titulo del punto
+          Title
         </ion-button>
 
         <ion-button expand="block" router-link="/login" color="dark">
-          Descripcion detallada
+          Description
         </ion-button>
 
         <ion-button expand="block" router-link="/login" color="dark">
-          Fecha de registro
+          Date
         </ion-button>
 
         <ion-button expand="block" router-link="/register" fill="outline" color="light">
-          Estado del punto
+          Status
         </ion-button>
       </div>
     </ion-content>
